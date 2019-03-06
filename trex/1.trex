@@ -4,7 +4,7 @@
     <default-locale>en_US</default-locale>
     <name resource-id=""/>
     <description>Tableau Data Extension Part One</description>
-    <author name="Your Name" email="Your Email" organization="Your Org" website="https://www.tableaumagic.com"/>
+   <!-- <author name="Your Name" email="Your Email" organization="Your Org" website="https://www.tableaumagic.com"/> -->
     <min-api-version>0.9</min-api-version>
     <source-location>
       <url>http://localhost:8080</url>
