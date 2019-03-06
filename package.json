@@ -1,0 +1,11 @@
+{
+  "name": "js",
+  "version": "1",
+  "main": "1",
+  "license": "MIT",
+  "description": "tableau extension",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1"
+  }
+}
